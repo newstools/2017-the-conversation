@@ -1,0 +1,41 @@
+Music is known to provoke the senses, give pleasure and sometimes move people to tears. Surely this has little to do with mathematical models which are so frequently associated with cold and rational logic. So what can maths tell us about this powerful phenomenon closely connected to the emotions? Can mathematics help us measure what’s sublime or ineffable about a piece of music? Music evokes strong emotions such as frisson (goose bumps), awe and laughter – and has been found to use the same reward pathways as food, drugs and sex to induce pleasure. A shiver down one’s spine or an uncontrollable guffaw when listening to music is most often a case of the music defying your expectations. Expectations can be defined in two ways: schematic – knowing how a genre of music is supposed to go – or veridical – knowing how a particular piece of music unfolds. On one end of the spectrum, a performance or a piece of music that does just what you’d expect runs the risk of becoming banal. On the other end, music like that of PDQ Bach – which uses tongue-in-cheek egregious violations of known expectations – makes many people laugh. Author provided
+  Listen
+  PDQ Bach: The Short-tempered Clavier: Minuet in C
+Your browser does not support audio playback. You can download the file instead.
+
+  
+    Download
+    
+    MP3 / 735 KB  The craving that comes from musical anticipation and the euphoria that follows the reward have both been found to be linked to dopamine release. As a result, performers and composers alike play with listeners’ expectations, often going to great lengths to carefully choreograph their expectations, and then sometimes breaking them, to provoke and heighten emotional responses. In tonal music, which is almost all of the music that we hear and can be thought of as being based on a scale, the note sequence sets up expectations, then suspends, fulfils, or violates them. For a simple example, sing the first three phrases of “Happy Birthday” and stop at the end of the penultimate phrase. Author provided
+  Listen
+  Happy Birthday (first part)
+Your browser does not support audio playback. You can download the file instead.
+
+  
+    Download
+    
+    MP3 / 284 KB  Anticipation for the resolution to this musical cliffhanger creates a palpable knot in the gut. This hollow feeling can be further intensified by delaying the final phrase. The release is evident when the final phrase is heard and ends happily on the most stable tone. Author provided
+  Listen
+  Happy Birthday (second part)
+Your browser does not support audio playback. You can download the file instead.
+
+  
+    Download
+    
+    MP3 / 156 KB  Two things are at work here in this miniature example: tonality and time. Tonality provides a framework through which expectations are formed – and the play on time, the delaying of expectations, uses the framework to create a musical cliffhanger and titillate the senses. Expectations can be modelled mathematically and time can be measured – so the shaping of both expectations and time can be described in numbers. Over the years, in my research lab, we have developed models and computer algorithms for quantifying tonal properties and expressive parameters in music. Many of the tonal analysis algorithms are based on what is known as a “spiral array model”. The spiral array can be plotted in 3D to allow us to visualise the dynamic evolution of musical keys and spot when the notes and their timing combine to do something interesting to tug at our emotions. As music is heard, the notes can be mapped to the model, duly weighted and summarised as points inside it. Movements in the space inside the model allow listeners to see deviations from expected tonal behaviour. Just as pitches that sound close one to another are spatially near each other; the converse is true: pitches that sound far from one another are spatially far apart. Feelings of tension translate to quantifiably big distances – notes mapping to widely dispersed points or pulling far away from an established centre of gravity. Composers actively vary the tension over time to generate interest and captivate the listener’s attention. The shaping of tension over time also helps create meaningful long-term structure. It is notoriously hard for computer algorithms to generate music with long-term structure. But the MorpheuS system, developed by music researcher Dorien Herremans, circumvents this problem to generate music with a pre-set narrative structure by using a tension model based on the spiral array. Listen to this version of JS Bach’s “Minuet in D”: Author provided
+  Listen
+  MorpheuS-Bach: A Little Notebook for Anna Magdalena: Minuet in D
+Your browser does not support audio playback. You can download the file instead.
+
+  
+    Download
+    
+    MP3 / 582 KB  It follows the tension profile, rhythms, and repetition patterns of the original piece from A Little Notebook for Anna Magdalena Bach: Author provided
+  Listen
+  JS Bach: A Little Notebook for Anna Magdalena Bach: Minuet in D
+Your browser does not support audio playback. You can download the file instead.
+
+  
+    Download
+    
+    MP3 / 605 KB  The notes of the generated piece also conjures up similar degrees of tension to the original music. For example, discordant sounds follows the same patterns of discord in Bach’s original piece. Not only do notes themselves create tension, a performer can delay resolutions to heighten suspense. Judicious use of timing is one of the most potent expressive devices for eliciting emotional responses. The right amount of delay can sweeten the anticipation – but take too much time and the performer risks losing the listener. In music with a beat, the musical pulse forms a baseline grid on which to measure timing deviations – prolongations and reductions of the time unit. In extreme cases, these warpings of musical time produce tipping points, the feeling of being poised at the brink of an abstract hill in an imaginary roller coaster. We can use maths to present this graphically. When a piece of music is performed precisely as written, it is displayed as a flat line in these graphs. But music is almost never played exactly as written. Performers often exercise significant creative license; as a result, anomalous peaks signal the evocation of musical tipping points. By elongating specific notes – or words or syllables – the performer draws the listener’s ears to details that might have been missed or glossed over. Because the listener often knows what’s coming, the delay prolongs expectation – creating drama and exaggerating emotional cues. Mathematics is the language through which scientists understand the nature of the universe. However, the extent to which numbers can explain the ephemeral experience of music has yet to be fully explored. Why does music move us? How do its variegated structures translate to musical expectations? How do performers and composers exploit these expectations to craft profound and moving musical experiences? Our mathematical forays into these questions are but the tip of the ice berg.
